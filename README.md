@@ -15,7 +15,7 @@ Remove the older one and enable the new layout
 Restart the PC
 
 ###Tested with the setup:
-GuestOS : Windows 8.1
-VirtualBox
-MacBook Pro
+-GuestOS : Windows 8.1
+-VirtualBox
+-MacBook Pro
 
