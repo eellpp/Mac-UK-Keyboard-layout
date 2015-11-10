@@ -19,3 +19,11 @@ Restart the PC
 - VirtualBox
 - MacBook Pro
 
+### Some others things to do 
+- Install the guest additions and enable bidirectional clipboard sharing
+- Map keys : Used sharp keys to map the mac command key to control key
+https://gist.github.com/eellpp/7489811c2ff8d47680bf
+
+### Shortcuts
+- GoToEnd/GoToStart : (FN + COMMAND + RightArrow)/ (FN + COMMAND + LeftArrow)
+
