@@ -26,4 +26,6 @@ https://gist.github.com/eellpp/7489811c2ff8d47680bf
 
 ### Shortcuts
 - GoToEnd/GoToStart : (FN + COMMAND + RightArrow)/ (FN + COMMAND + LeftArrow)
+- using F10/F11 : FN + F10 / FN + F11
+
 
